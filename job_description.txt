@@ -1,0 +1,25 @@
+Job Title: Python Full-Stack Developer
+
+Location: Bangalore, India
+
+Job Summary:
+We are seeking an experienced and motivated Python Full-Stack Developer to join our dynamic engineering team. The ideal candidate will have strong experience with back-end development using Python frameworks like Django or Flask, and front-end development using modern JavaScript frameworks like React or Angular. You will be responsible for designing, developing, and maintaining our web applications and APIs.
+
+Responsibilities:
+- Develop scalable and secure web applications and APIs using Python.
+- Build responsive front-end components with React and JavaScript.
+- Manage and interact with PostgreSQL databases.
+- Deploy applications on cloud platforms like AWS.
+- Use Git for version control and collaborate with the team on new features.
+- Ensure code quality and maintainability through testing and code reviews.
+- Good communication and teamwork skills are essential.
+
+Required Skills:
+- Python
+- Django or Flask
+- React or Angular
+- SQL (specifically PostgreSQL)
+- RESTful APIs
+- Git
+- AWS
+- Strong problem-solving skills
